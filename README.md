@@ -5,4 +5,5 @@
 # Footprints
 
 Particle System in Unity 6 URP 
-Require Package Cinematic Machine 
+
+Require Package Cinematic Machine for paths
